@@ -27,3 +27,13 @@ npm notice
 (node:1894) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
 👀 Preview: http://localhost:8000
+(node:5760) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+👀 Preview: http://localhost:8000
+[31merror:[39m /Users/ogawa/doc/github/kibi2/note/articles/README.mdの内容を取得できませんでした
+[31merror:[39m /Users/ogawa/doc/github/kibi2/note/articles/README.mdの内容を取得できませんでした
+[31merror:[39m /Users/ogawa/doc/github/kibi2/note/articles/qpe250212fusion.mdの内容を取得できませんでした
+[31merror:[39m /Users/ogawa/doc/github/kibi2/note/articles/qpe250212fusion.mdの内容を取得できませんでした
+(node:3818) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+👀 Preview: http://localhost:8000
